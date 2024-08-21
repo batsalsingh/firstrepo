@@ -1,2 +1,3 @@
 # firstrepo
-This is my first git repository
+This is my first git repository.
+author batsal singh
